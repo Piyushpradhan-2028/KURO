@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/"
+  to = "/kuro.html"
+  status = 200
